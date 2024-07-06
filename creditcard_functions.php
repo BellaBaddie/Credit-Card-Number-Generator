@@ -1,6 +1,6 @@
 <?php
 
-$cc_type = $_POST['cctype'];
+$Visa = $_POST['visa'];
 
 $ccprefix = '';
 
